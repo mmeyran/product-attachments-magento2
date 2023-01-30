@@ -1,6 +1,6 @@
 {
     "name": "lizardmedia/module-product-attachments",
-    "description": "Products attachment by LizardMedia - fork by mmeyran for PHP 8.1.x",
+    "description": "Products attachment by LizardMedia",
     "require": {
         "php": "~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.1.0",
         "magento/module-catalog": "*",
@@ -9,7 +9,7 @@
         "magento/module-ui": "*"
     },
     "type": "magento2-module",
-    "version": "dev-php81",
+    "version": "1.3.10",
     "license": [
         "MIT"
     ],
